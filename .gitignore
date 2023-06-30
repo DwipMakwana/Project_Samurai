@@ -76,4 +76,6 @@ DerivedDataCache/*
 <<<<<<< HEAD 
 =======
 #Not necessary
-Content/CyberMap/*
+Content/CyberMap/Textures/*
+Content/CyberMap/Maps/*
+Content/CyberMap/Geometry/*
