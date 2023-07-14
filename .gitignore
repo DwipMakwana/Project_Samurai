@@ -76,4 +76,5 @@ DerivedDataCache/*
 <<<<<<< HEAD 
 =======
 #Temp
-Content/Maps/CyberMap/*
+Content/Maps/CyberMap/Geometry/*
+Content/Maps/CyberMap/Textures/*
