@@ -6,7 +6,7 @@ Developing combat mechanics similar to the Sucker Punch Production's Ghost of Ts
 See the project in action here => https://www.youtube.com/playlist?list=PLCXXIoh9PICX-335XxuY3LUYpFKnUFcoF
 
 ## Screenshots
-Soon once the project reaches at an certian active stage!
+<img src="1.png" width="750">
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
