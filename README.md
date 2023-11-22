@@ -1,5 +1,5 @@
 # Project Samurai
-Developing another passionate personal project on Unreal Engine using blueprints and also implementing combat mechanics of a samurai.
+An alpha stage project that has mechanics like combat, stealth, destruction, and parkour using components like motion warping, chaos, and blueprint classes like blend spaces, widgets, interfaces, etc. Also designing a prototype level for debugging in Unreal Engine.
 
 ## Motivation
 Developing combat mechanics similar to the Sucker Punch Production's Ghost of Tsushima also enhancing the quality by implementing various UI elements and environments in Unreal Engine<br>
