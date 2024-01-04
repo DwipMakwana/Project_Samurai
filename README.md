@@ -7,6 +7,7 @@ See the project in action here => https://www.youtube.com/playlist?list=PLCXXIoh
 
 ## Screenshots
 <img src="1.png" width="750">
+<img src="2.png" width="750">
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
