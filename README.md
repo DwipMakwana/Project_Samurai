@@ -9,12 +9,12 @@ See the project in action here => https://www.youtube.com/playlist?list=PLCXXIoh
 Just download the zip from releases and run the exe.
 
 ### Controls:
-WASD- Move
-Space- Climb Up
-Left Ctrl- Climp Down
-Left Alt- Dodge
-Left Click- Attack
-Right Click- Defend
+- WASD- Move
+- Space- Climb Up
+- Left Ctrl- Climp Down
+- Left Alt- Dodge
+- Left Click- Attack
+- Right Click- Defend
 
 ## Screenshots
 <img src="1.png" width="750">
