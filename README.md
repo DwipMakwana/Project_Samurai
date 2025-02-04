@@ -5,6 +5,17 @@ An alpha stage project that has mechanics like combat, stealth, destruction, and
 Developing combat mechanics similar to the Sucker Punch Production's Ghost of Tsushima also enhancing the quality by implementing various UI elements and environments in Unreal Engine<br>
 See the project in action here => https://www.youtube.com/playlist?list=PLCXXIoh9PICX-335XxuY3LUYpFKnUFcoF
 
+## Testing
+Just download the zip from releases and run the exe.
+
+### Controls:
+WASD- Move
+Space- Climb Up
+Left Ctrl- Climp Down
+Left Alt- Dodge
+Left Click- Attack
+Right Click- Defend
+
 ## Screenshots
 <img src="1.png" width="750">
 <img src="2.png" width="750">
